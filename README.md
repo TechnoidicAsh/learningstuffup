@@ -1,2 +1,3 @@
 # learningstuffup
-Just passing time learning, brainstorming and dreaming
+Just passing time learning, brainstorming and dreaming.
+I am technoid
